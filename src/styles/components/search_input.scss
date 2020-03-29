@@ -1,0 +1,20 @@
+.search_input-buttons--content{
+    display: flex;
+}
+
+.ant-btn-primary{
+    width: 20rem;
+    background-color: #5f2076 !important;
+}
+
+.ant-btn-primary:hover{
+    background-color: #2f1f4b !important;
+}
+
+.ant-input-lg{
+    margin-right: 50px !important; 
+}
+
+.ant-input-lg:focus{
+border-color:#5f2076 !important;
+}

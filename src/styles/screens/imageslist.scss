@@ -1,0 +1,21 @@
+.image_list__container{
+    width: 100%;
+    display: flex;
+    flex-wrap:  wrap;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.image_scroll__container{
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    display: flex;
+    white-space: nowrap;
+    margin-top: 40px; 
+    padding-bottom: 10px;
+}
+
+.image_detail_view{
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.global_header__container{
+    background-image: linear-gradient(#5f2076, #2f1f4b);
+    padding: 2.5rem 0rem;
+    width: 100%;
+}
+
+.global_header__title{
+    text-align: center;
+    font-size: 44px;
+    font-weight: bold;
+    color: white;
+}
+
+.global_header__title--characters{
+    color: #77d522;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}

@@ -1,0 +1,39 @@
+@import '~antd/dist/antd.css';
+@import '~react-gif-player/src/GifPlayer';
+@import './styles/global_components/header.scss';
+@import './styles/global_components/image.scss';
+@import './styles/components/search_input.scss';
+@import './styles/screens/imageslist.scss';
+
+#root {
+  height: 100%;
+}
+
+.container{
+  margin: 20px 6rem;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
