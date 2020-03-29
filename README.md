@@ -17,3 +17,6 @@ REACT_APP_API_KEY ='MYqFagWdjAe4pyO9Ao2LTU1IbvXxkQkb&q'
 - Restart the project using npm start 
 
 # Ready to go!
+
+# You can test the aplication in the next link!
+https://pop-gifs-2lpmagrbl.now.sh/
